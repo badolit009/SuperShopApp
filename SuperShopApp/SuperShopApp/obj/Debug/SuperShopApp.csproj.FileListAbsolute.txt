@@ -7,3 +7,12 @@ C:\Users\Badol Hossain\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperSho
 C:\Users\Badol Hossain\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csproj.GenerateResource.Cache
 C:\Users\Badol Hossain\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
 C:\Users\Badol Hossain\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb
+C:\Users\Badol Hossain\Desktop\GitUpload\Project\SuperShopApp\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe.config
+C:\Users\Badol Hossain\Desktop\GitUpload\Project\SuperShopApp\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
+C:\Users\Badol Hossain\Desktop\GitUpload\Project\SuperShopApp\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb
+C:\Users\Badol Hossain\Desktop\GitUpload\Project\SuperShopApp\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+C:\Users\Badol Hossain\Desktop\GitUpload\Project\SuperShopApp\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+C:\Users\Badol Hossain\Desktop\GitUpload\Project\SuperShopApp\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\GitUpload\Project\SuperShopApp\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\GitUpload\Project\SuperShopApp\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.SuperShopUI.resources
+C:\Users\Badol Hossain\Desktop\GitUpload\Project\SuperShopApp\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csproj.GenerateResource.Cache
